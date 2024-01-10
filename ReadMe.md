@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently don't work on project because of I am Lecturer of Web development<br>🤝 I’m looking for a job to get practical experience<br>🌱 I’m currently learning Bootstrap, git and etc.<br>
+🔭 I'm currently working as teacher of Python <br>🤝 I’m looking for a job to get practical experience<br>🌱 I’m currently learning Python, Django, Data Science<br>
 
 
 ## 🌐 Socials:
