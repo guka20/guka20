@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as teacher of Python <br>🤝 I’m looking for a job to get practical experience<br>🌱 I’m currently learning Python, Django, Data Science<br>
+🔭 I'm currently working as teacher of Front-end <br>🤝 I’m looking for a job to get practical experience<br>🌱 I’m currently learning Python,Math, Data Science<br>
 
 
 ## 🌐 Socials:
